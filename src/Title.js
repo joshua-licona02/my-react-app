@@ -5,7 +5,7 @@ function Title(){
     return(
 
         <div>
-            <h1>Water Treatment Plant</h1>
+            <h1>Grit Chamber Interface</h1>
         </div>
     )
 }
