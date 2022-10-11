@@ -8,6 +8,7 @@ function App() {
     <div className="App">
       <header className="App-header">
 
+
         <Title/>
         <body>
     
@@ -30,7 +31,6 @@ function App() {
           <input type ="text" id="TemperatureTarget" name="TemperatureTarget" placeholder=" "></input>
           <button type="button">Set Target</button>
       </body>
-      </header>
     </div>
   );
 }
