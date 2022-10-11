@@ -12,17 +12,5 @@ const navigate = useNavigate();
     </button>
   )
 }
- 
-
-
-
-//const App = () => {
-  //return (
-    //<div>
-     // <button id="sensor1" style={{padding:'32px 16px'}}  >Sensor 1</button>
-   // </div>
-   
-//  );
-//};
 
 export default Home;
