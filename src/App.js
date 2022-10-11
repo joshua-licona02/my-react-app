@@ -31,6 +31,7 @@ function App() {
           <input type ="text" id="TemperatureTarget" name="TemperatureTarget" placeholder=" "></input>
           <button type="button">Set Target</button>
       </body>
+      </header>
     </div>
   );
 }
